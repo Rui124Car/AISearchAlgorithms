@@ -1,2 +1,2 @@
 # Rectangular-partitions-IA
-IA program about Guarding Rectangular partitions 
+AI program about Guarding Rectangular partitions 
